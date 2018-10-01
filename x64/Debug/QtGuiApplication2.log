@@ -1,0 +1,30 @@
+﻿  Moc'ing Rect.h...
+  Rcc'ing MainWindow.qrc...
+  Uic'ing MainWindow.ui...
+  RCC: Warning: No resources in 'C:\Users\56841\Desktop\浼婂嚒\draw\閲嶆瀯鍓嶇増鏈琝QtGuiApplication2\QtGuiApplication2\MainWindow.qrc'.
+  cricle.cpp
+  global.cpp
+  gon.cpp
+  Line.cpp
+  main.cpp
+  MainWindow.cpp
+  reader.cpp
+  Rect.cpp
+c:\users\56841\desktop\伊凡\draw\重构前版本\qtguiapplication2\qtguiapplication2\rect.h(7): warning C4584: “Rect”: 基类“QObject”已是“Shape”的基类 (编译源文件 Rect.cpp)
+  f:\qt\ins\5.9.1\msvc2017_64\include\qtcore\qcoreevent.h(347): note: 参见“QObject”的声明 (编译源文件 Rect.cpp)
+  c:\users\56841\desktop\伊凡\draw\重构前版本\qtguiapplication2\qtguiapplication2\shape.h(6): note: 参见“Shape”的声明 (编译源文件 Rect.cpp)
+c:\users\56841\desktop\伊凡\draw\重构前版本\qtguiapplication2\qtguiapplication2\global.cpp(7): warning C4129: “m”: 不可识别的字符转义序列 (编译源文件 global.cpp)
+c:\users\56841\desktop\伊凡\draw\重构前版本\qtguiapplication2\qtguiapplication2\global.cpp(8): warning C4129: “m”: 不可识别的字符转义序列 (编译源文件 global.cpp)
+c:\users\56841\desktop\伊凡\draw\重构前版本\qtguiapplication2\qtguiapplication2\rect.h(7): warning C4584: “Rect”: 基类“QObject”已是“Shape”的基类 (编译源文件 MainWindow.cpp)
+  f:\qt\ins\5.9.1\msvc2017_64\include\qtcore\qcoreevent.h(347): note: 参见“QObject”的声明 (编译源文件 MainWindow.cpp)
+  c:\users\56841\desktop\伊凡\draw\重构前版本\qtguiapplication2\qtguiapplication2\shape.h(6): note: 参见“Shape”的声明 (编译源文件 MainWindow.cpp)
+  saver.cpp
+  Shape.cpp
+  moc_MainWindow.cpp
+  moc_Rect.cpp
+  moc_Shape.cpp
+  qrc_MainWindow.cpp
+c:\users\56841\desktop\伊凡\draw\重构前版本\qtguiapplication2\qtguiapplication2\rect.h(7): warning C4584: “Rect”: 基类“QObject”已是“Shape”的基类 (编译源文件 .\GeneratedFiles\Debug\moc_Rect.cpp)
+  f:\qt\ins\5.9.1\msvc2017_64\include\qtcore\qcoreevent.h(347): note: 参见“QObject”的声明 (编译源文件 .\GeneratedFiles\Debug\moc_Rect.cpp)
+  c:\users\56841\desktop\伊凡\draw\重构前版本\qtguiapplication2\qtguiapplication2\shape.h(6): note: 参见“Shape”的声明 (编译源文件 .\GeneratedFiles\Debug\moc_Rect.cpp)
+  QtGuiApplication2.vcxproj -> C:\Users\56841\Desktop\伊凡\draw\重构前版本\QtGuiApplication2\x64\Debug\QtGuiApplication2.exe
